@@ -23,7 +23,7 @@ Install requirements:
 - pip install pyfiglet
 
 ## Run
-- python3 SniffingTool.py
+- python3 SniffingTool.py -h
 
 ## Disclaimer
 This tool is for educational purposes and authorized network analysis only.
