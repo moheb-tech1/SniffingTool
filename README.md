@@ -1,4 +1,4 @@
-# Network Sniffing Tool
+# Network Packet Analyzer
 
 A Python network traffic analyzer built with PyShark.
 
