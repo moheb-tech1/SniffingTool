@@ -19,7 +19,6 @@ Install requirements:
 
 - pip install pyshark
 - pip install rich
-- pip install argparse
 - pip install pyfiglet
 
 ## Run
